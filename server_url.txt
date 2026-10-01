@@ -1,1 +1,2 @@
-https://api.trycloudflare.com
+http://aneti-176-115-147-134.run.pinggy-free.link
+https://aneti-176-115-147-134.run.pinggy-free.link
