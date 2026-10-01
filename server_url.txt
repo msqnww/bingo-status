@@ -1,1 +1,1 @@
-https://arc-rocks-tattoo-hugh.trycloudflare.com
+https://api.trycloudflare.com
