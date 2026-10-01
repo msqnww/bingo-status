@@ -1,1 +1,1 @@
-https://cotton-beads-navy-everyone.trycloudflare.com
+https://api.trycloudflare.com
